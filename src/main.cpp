@@ -9,3 +9,4 @@
 
 #include "unit_test_init_cleanup.hpp"
 #include "VCluster_unit_tests.hpp"
+#include "VCluster_mpi_benchmark.hpp"
